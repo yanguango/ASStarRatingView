@@ -2,7 +2,7 @@
 //  ASRatingView.m
 //  AppShike
 //
-//  Created by bl0ck on 12/19/11.
+//  Created by yanguango on 12/19/11.
 //  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
 //
 
