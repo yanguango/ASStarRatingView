@@ -2,7 +2,7 @@
 //  main.m
 //  ASStarRatingViewDemo
 //
-//  Created by Sam Yang on 12-1-16.
+//  Created by yanguango on 12-1-16.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 
